@@ -62,10 +62,10 @@
 			children = (
 				A528AB6E28D410AB0023C2ED /* Supporting Files */,
 				A528AB6928D408720023C2ED /* ResearchKit */,
-				A528AB6628D406E40023C2ED /* Recover.entitlements */,
-				A528AB6428D405760023C2ED /* InsightsViewController.swift */,
 				A528AB6C28D40FF10023C2ED /* AppDelegate.swift */,
 				A528AB5C28D3D3430023C2ED /* CareFeedViewController.swift */,
+				A528AB6428D405760023C2ED /* InsightsViewController.swift */,
+				A528AB6628D406E40023C2ED /* Recover.entitlements */,
 				A528AB5828D3CC340023C2ED /* Surveys.swift */,
 				A528AB4E28D3CBF40023C2ED /* Assets.xcassets */,
 				A528AB5028D3CBF40023C2ED /* Preview Content */,
